@@ -1,0 +1,59 @@
+.group1{
+    position: relative;
+    height: 330px;
+    width: 350px;
+}
+ .welcome{
+     text-align: center;
+     position: relative;
+     left: 40px;
+     top: -20px;
+     color:rgb(83, 83, 170); 
+ }
+.code{
+     padding: 12px ;
+     border: 3px solid rgb(97, 97, 189);; 
+     background-color: white;
+     color: rgb(83, 83, 170);
+     font-size: 11px;
+     border-radius: 10px;
+     padding-left: 100px;
+     padding-right: 120px;
+     position: relative;
+     left: 35px;
+ }
+ .login{
+     position: relative;
+     top: 150px;
+     left: 20px;
+     padding: 14px;
+     padding-left: 50px;
+     padding-right: 50px; 
+     border-radius: 8px;
+     color: white;
+     background-color: rgb(73, 73, 149);
+ }
+ .finger{
+     left: 100px;
+     position: relative;
+     margin-left: 10px;
+ }
+.button{
+     top: -100px;
+}
+.vector{
+     position: relative;
+     top: 160px;
+     left: 45px;
+     padding-left: 50px;
+     padding-right: 50px; 
+     border-radius: 8px ;
+     border-color: rgb(88, 88, 197);
+     background-color: white;
+}
+.line{
+     position: relative;
+     left: 130px;
+     top: 185px;
+}
+

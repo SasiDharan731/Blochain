@@ -1,0 +1,55 @@
+body{
+    background: rgb(65, 77, 148); 
+}
+.bio{
+    color: white;
+    text-align: center;
+    position: relative;
+    left: 30px;
+    top: 120px;
+}
+.scan{
+    position: relative;
+    left: 120px;
+    top: 140px;
+    height: 100px;
+    width: 100px;
+}
+.enable{
+    color: rgb(218, 214, 214);
+    font-style: normal;
+    position: relative;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    left: 80px;
+    top: 160px;
+}
+.next{
+    position: relative;
+    left: 110px;
+    top: 160px;
+    color: rgb(218, 214, 214);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.able{
+    position: relative;
+    top: 200px;
+    left: 95px;
+    padding: 14px;
+    padding-left: 50px;
+    padding-right: 50px; 
+    border-radius: 10px;
+    color: white;
+    background-color: rgb(79, 96, 192);
+}
+.time{
+    position: relative;
+    left: 103px;
+    top: 220px;
+    color: rgb(218, 214, 214);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.line{
+    position: relative;
+     left: 120px;
+     top: 290px;
+}

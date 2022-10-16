@@ -1,0 +1,71 @@
+.total{
+     color: white; 
+     text-align: center;
+     position: relative;
+     left: 40px;
+     top: -130px;
+}
+.eye{
+    color: white; 
+    text-align: center;
+    position: relative;
+    left: 45px;
+    top: -130px;
+}
+.short{
+    color: rgb(24, 24, 179);
+    font-style: sans-serif;
+    position: relative;
+    left: 20px;
+    top: -100px;
+}
+.pencil{
+    position: relative;
+    left: 310px;
+    top: -140px;
+}
+.icon{
+    position: relative;
+    left: 17px;
+    top: -115px;
+}
+.icon_name1{
+    position: relative;
+    color: rgb(24, 24, 179);
+    left: 20px;
+    top: -130px;
+}
+.icon_name2{
+    position: relative;
+    color: rgb(24, 24, 179);
+    left: 122px;
+    top: -170px;
+}
+.icon_name3{
+    position: relative;
+    color: rgb(24, 24, 179);
+    left: 200px;
+    top: -210px;
+}
+.icon_name4{
+    position: relative;
+    color: rgb(24, 24, 179);
+    left: 301px;
+    top: -250px;
+}
+.promo{
+    position: relative;
+    color: rgb(24, 24, 179);
+    left: 22px;
+    top: -210px;
+}
+.poster{
+    position: relative;
+    left: 10px;
+    top: -207px;
+}
+.poster2{
+    position: relative;
+    left: 10px;
+    top: -190px;
+}
